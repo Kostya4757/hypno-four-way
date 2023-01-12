@@ -1,0 +1,273 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				17,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Grey_I"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Grey_L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Grey_D",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Grey_U",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Grey_R",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Turn",
+			"indices": [],
+			"name": "GreyCold_Turn"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "GreyCold_I",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "GreyCold_L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "GreyCold_D",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "GreyCold_U",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "GreyCold_R",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				9
+			],
+			"anim": "cold",
+			"fps": 24,
+			"name": "Grey_Talk2",
+			"indices": [
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "SoCold",
+			"indices": [],
+			"name": "GreyCold_Talk"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "StillCold",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25
+			],
+			"name": "GreyCold_Talk"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				9
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Grey_Miss_L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				9
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Grey_Miss_D",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				9
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Grey_Miss_U",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				9
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Grey_Miss_R",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Grey",
+	"position": [
+		500,
+		-100
+	],
+	"healthicon": "Grey",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		80,
+		80
+	],
+	"camera_position": [
+		0,
+		-270
+	],
+	"sing_duration": 6.1,
+	"scale": 1.75
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SayoPoemIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SayoPoemLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				27
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SayoPoemDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SayoPoemUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SayoPoemRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SayoriBad",
+	"position": [
+		-380,
+		-480
+	],
+	"healthicon": "SayoriBad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-150,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

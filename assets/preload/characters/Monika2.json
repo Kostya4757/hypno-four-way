@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Monika Returns I"
+		},
+		{
+			"offsets": [
+				-95,
+				-48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Monika Returns D"
+		},
+		{
+			"offsets": [
+				-53,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Monika Returns U"
+		},
+		{
+			"offsets": [
+				-68,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Monika Returns L"
+		},
+		{
+			"offsets": [
+				-9,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Monika Returns R"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Monika",
+	"position": [
+		300,
+		-255
+	],
+	"healthicon": "Monika",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		212,
+		101
+	],
+	"camera_position": [
+		-350,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

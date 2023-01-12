@@ -1,0 +1,229 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GreyCold_I"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GreyCold_L"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GreyCold_D"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GreyCold_U"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GreyCold_R"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Turn",
+			"fps": 24,
+			"name": "GreyCold_Turn",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				11
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Grey_I",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Grey_L"
+		},
+		{
+			"offsets": [
+				16,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Grey_D"
+		},
+		{
+			"offsets": [
+				15,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Grey_U"
+		},
+		{
+			"offsets": [
+				15,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Grey_R"
+		},
+		{
+			"offsets": [
+				15,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cold",
+			"indices": [
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43
+			],
+			"name": "Grey_Talk2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "SoCold",
+			"fps": 24,
+			"name": "GreyCold_Talk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "StillCold",
+			"fps": 24,
+			"name": "GreyCold_Talk",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Grey",
+	"position": [
+		-400,
+		0
+	],
+	"healthicon": "Grey",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		80,
+		80
+	],
+	"camera_position": [
+		-240,
+		-210
+	],
+	"sing_duration": 6.1,
+	"scale": 1.75
+}

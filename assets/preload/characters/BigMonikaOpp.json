@@ -1,0 +1,116 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Big Monika Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Big Monika Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-49
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Big Monika Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				14
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Big Monika Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Big Monika Idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Big Monika Idle",
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				191,
+				43
+			],
+			"anim": "Bye",
+			"fps": 24,
+			"name": "Big Monika Last",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BigMAMA",
+	"position": [
+		-645,
+		-500
+	],
+	"healthicon": "Bigmonika",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		212,
+		101
+	],
+	"camera_position": [
+		-160,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

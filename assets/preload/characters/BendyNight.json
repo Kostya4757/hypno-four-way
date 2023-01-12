@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				208,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				17,
+				145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				29
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FUCK",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				-156
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-144,
+				1105
+			],
+			"anim": "Intro",
+			"fps": 36,
+			"name": "Intro",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Deat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BendyNight",
+	"position": [
+		-450,
+		-550
+	],
+	"healthicon": "BendyNight",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		204,
+		0
+	],
+	"camera_position": [
+		200,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

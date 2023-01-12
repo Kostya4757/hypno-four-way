@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				108,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "RedL"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "RedI"
+		},
+		{
+			"offsets": [
+				-58,
+				22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RedR"
+		},
+		{
+			"offsets": [
+				82,
+				28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "RedU"
+		},
+		{
+			"offsets": [
+				2,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "RedD"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jotared",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Jotared",
+	"flip_x": false,
+	"healthbar_colors": [
+		185,
+		49,
+		43
+	],
+	"camera_position": [
+		-500,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

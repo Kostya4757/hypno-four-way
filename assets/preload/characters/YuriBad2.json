@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "YuriIdle"
+		},
+		{
+			"offsets": [
+				61,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "YuriLeft"
+		},
+		{
+			"offsets": [
+				46,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "YuriDown"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "YuriUp"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "YuriRight"
+		},
+		{
+			"offsets": [
+				23,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ded",
+			"loop": false,
+			"name": "YuriAlive"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/YuriBad2",
+	"position": [
+		-390,
+		-690
+	],
+	"healthicon": "Yuri",
+	"flip_x": false,
+	"healthbar_colors": [
+		158,
+		114,
+		210
+	],
+	"camera_position": [
+		-140,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

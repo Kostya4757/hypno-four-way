@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Hypno I",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Hypno L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-181,
+				266
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Hypno U",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-389,
+				83
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Hypno R",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-212,
+				-133
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Final",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-331,
+				25
+			],
+			"anim": "PsyShock",
+			"fps": 24,
+			"name": "Psyshock",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hypno",
+	"position": [
+		-1000,
+		-175
+	],
+	"healthicon": "Hypno",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		223,
+		68
+	],
+	"camera_position": [
+		300,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.35
+}

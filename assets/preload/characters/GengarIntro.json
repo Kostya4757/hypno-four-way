@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				100
+			],
+			"anim": "Spawn",
+			"fps": 24,
+			"name": "gengar",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/GengarIntro",
+	"position": [
+		-300,
+		300
+	],
+	"healthicon": "buried",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-535,
+		-440
+	],
+	"sing_duration": 6.1,
+	"scale": 5
+}

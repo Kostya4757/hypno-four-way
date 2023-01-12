@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BlurriIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BlurriLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BlurriDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BlurriUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BlurriRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/YuriBad",
+	"position": [
+		-390,
+		-375
+	],
+	"healthicon": "YuriBad",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-140,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

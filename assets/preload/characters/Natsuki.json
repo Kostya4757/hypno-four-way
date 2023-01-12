@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Nat I",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nat Sing Note R",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-29
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Nat Sing Note D",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Nat Sing Note U",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-32
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Nat Sing Note L",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Natsuki",
+	"position": [
+		1000,
+		-100
+	],
+	"healthicon": "Natsuki",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		149,
+		211
+	],
+	"camera_position": [
+		225,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

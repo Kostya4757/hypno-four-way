@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "STARE idle"
+		},
+		{
+			"offsets": [
+				183,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "STARE left"
+		},
+		{
+			"offsets": [
+				3,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "STARE up"
+		},
+		{
+			"offsets": [
+				-12,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "STARE right"
+		},
+		{
+			"offsets": [
+				55,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "STARE down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Wigglytuff2",
+	"position": [
+		100,
+		-300
+	],
+	"healthicon": "Wigglytuff",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		56,
+		67
+	],
+	"camera_position": [
+		-200,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.45
+}
