@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PoemTransition.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="poemtransition0010" x="1970" y="10" width="1280" height="720"/>
+	<SubTexture name="poemtransition0011" x="1970" y="10" width="1280" height="720"/>
+	<SubTexture name="poemtransition0012" x="10" y="740" width="1280" height="720"/>
+	<SubTexture name="poemtransition0013" x="10" y="740" width="1280" height="720"/>
+	<SubTexture name="poemtransition0014" x="1300" y="740" width="1280" height="720"/>
+	<SubTexture name="poemtransition0015" x="1300" y="740" width="1280" height="720"/>
+	<SubTexture name="poemtransition0016" x="1970" y="10" width="1280" height="720"/>
+	<SubTexture name="poemtransition0017" x="1970" y="10" width="1280" height="720"/>
+	<SubTexture name="poemtransition0018" x="10" y="740" width="1280" height="720"/>
+	<SubTexture name="poemtransition0019" x="10" y="740" width="1280" height="720"/>
+	<SubTexture name="poemtransition0020" x="1300" y="740" width="1280" height="720"/>
+	<SubTexture name="poemtransition0021" x="1300" y="740" width="1280" height="720"/>
+	<SubTexture name="poemtransition0022" x="1970" y="10" width="1280" height="720"/>
+	<SubTexture name="poemtransition0023" x="1970" y="10" width="1280" height="720"/>
+	<SubTexture name="poemtransition0024" x="10" y="740" width="1280" height="720"/>
+	<SubTexture name="poemtransition0025" x="10" y="740" width="1280" height="720"/>
+	<SubTexture name="poemtransition0026" x="1300" y="740" width="1280" height="720"/>
+	<SubTexture name="poemtransition0027" x="1300" y="740" width="1280" height="720"/>
+	<SubTexture name="poemtransition0028" x="1970" y="10" width="1280" height="720"/>
+	<SubTexture name="poemtransition0029" x="1970" y="10" width="1280" height="720"/>
+	<SubTexture name="poemtransition0030" x="10" y="740" width="1280" height="720"/>
+	<SubTexture name="poemtransition0031" x="10" y="740" width="1280" height="720"/>
+	<SubTexture name="poemtransition0032" x="1300" y="740" width="1280" height="720"/>
+	<SubTexture name="poemtransition0033" x="1300" y="740" width="1280" height="720"/>
+</TextureAtlas>
