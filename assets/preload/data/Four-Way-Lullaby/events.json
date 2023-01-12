@@ -1,0 +1,876 @@
+{
+	"song": {
+		"events": [
+			[
+				1643.83561643836,
+				[
+					[
+						"Play Animation",
+						"White",
+						""
+					]
+				]
+			],
+			[
+				41301.3698630137,
+				[
+					[
+						"Play Animation",
+						"sad",
+						"bf"
+					]
+				]
+			],
+			[
+				41475.8493150685,
+				[
+					[
+						"Play Animation",
+						"Brim",
+						""
+					],
+					[
+						"Change Character",
+						"",
+						"Cuphead"
+					],
+					[
+						"Change Character",
+						"1",
+						"BuriedSOLO"
+					]
+				]
+			],
+			[
+				52500,
+				[
+					[
+						"Change Character",
+						"2",
+						"Buried"
+					],
+					[
+						"Change Character",
+						"1",
+						"GengarIntro"
+					],
+					[
+						"Play Animation",
+						"Spawn",
+						"dad"
+					]
+				]
+			],
+			[
+				54554.794520548,
+				[
+					[
+						"Change Character",
+						"",
+						"Missingno2"
+					],
+					[
+						"Change Character",
+						"1",
+						"Gengar"
+					]
+				]
+			],
+			[
+				80650.6849315069,
+				[
+					[
+						"Change Character",
+						"",
+						"Natsuki"
+					],
+					[
+						"Change Character",
+						"1",
+						"GFhypno"
+					],
+					[
+						"Change Character",
+						"2",
+						"nothing"
+					]
+				]
+			],
+			[
+				106643.835616438,
+				[
+					[
+						"Play Animation",
+						"Hypno",
+						""
+					],
+					[
+						"Change Character",
+						"",
+						"Monika"
+					],
+					[
+						"Change Character",
+						"1",
+						"Hypno"
+					]
+				]
+			],
+			[
+				133561.643835617,
+				[
+					[
+						"Play Animation",
+						"Hell",
+						""
+					],
+					[
+						"Change Character",
+						"2",
+						"Yuri"
+					],
+					[
+						"Change Character",
+						"1",
+						"Beelze"
+					],
+					[
+						"Fade BF",
+						"0",
+						"0"
+					],
+					[
+						"Change Character",
+						"",
+						"Yuri2"
+					]
+				]
+			],
+			[
+				133664.383561644,
+				[
+					[
+						"spawner",
+						"",
+						"wigglytuff"
+					]
+				]
+			],
+			[
+				186164.383561644,
+				[
+					[
+						"Fade BF",
+						"10",
+						"1"
+					],
+					[
+						"Fade GF",
+						"10",
+						"0"
+					]
+				]
+			],
+			[
+				199263.698630137,
+				[
+					[
+						"Change Character",
+						"",
+						"Monika2"
+					],
+					[
+						"Change Character",
+						"2",
+						"nothing"
+					],
+					[
+						"Fade GF",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				225205.479452055,
+				[
+					[
+						"Play Animation",
+						"Moni",
+						""
+					],
+					[
+						"Change Character",
+						"",
+						"Monisans"
+					],
+					[
+						"Change Character",
+						"1",
+						"GoldNO"
+					],
+					[
+						"Change Character",
+						"2",
+						"BigMonika"
+					],
+					[
+						"Fade GF",
+						"0",
+						"1"
+					],
+					[
+						"spawner",
+						"wigglytuff",
+						"wigglytuff2"
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Alt Idle Animation",
+						"-alt",
+						""
+					],
+					[
+						"Change Character",
+						"",
+						"sans"
+					],
+					[
+						"Change Character",
+						"1",
+						"gold"
+					],
+					[
+						"Play Animation",
+						"bye",
+						"gf"
+					]
+				]
+			],
+			[
+				240000,
+				[
+					[
+						"spawner",
+						"Wigglytuff2",
+						""
+					]
+				]
+			],
+			[
+				291320.349892722,
+				[
+					[
+						"Fade BF and icon",
+						"0.5",
+						"0"
+					],
+					[
+						"Fade Opp and icon",
+						"0.5",
+						"0"
+					],
+					[
+						"Fade GF",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				292404.68724212,
+				[
+					[
+						"Change Character",
+						"1",
+						"GreyColdOpp"
+					],
+					[
+						"Play Animation",
+						"Shitno",
+						""
+					]
+				]
+			],
+			[
+				293850.47037465,
+				[
+					[
+						"Play Animation",
+						"SoCold",
+						"Dad"
+					],
+					[
+						"Fade Opp and icon",
+						"0.5",
+						"1"
+					],
+					[
+						"Change Character",
+						"",
+						"Bendy"
+					],
+					[
+						"Change Character",
+						"2",
+						"Shitno"
+					],
+					[
+						"Play Animation",
+						"Shitno",
+						""
+					]
+				]
+			],
+			[
+				302254.084832481,
+				[
+					[
+						"Play Animation",
+						"StillCold",
+						"Dad"
+					]
+				]
+			],
+			[
+				302976.976398746,
+				[
+					[
+						"Change Character",
+						"1",
+						"GreyOpp"
+					],
+					[
+						"Fade BF and icon",
+						"0.1",
+						"1"
+					],
+					[
+						"Play Animation",
+						"Turn",
+						"Dad"
+					]
+				]
+			],
+			[
+				313729.988446939,
+				[
+					[
+						"Play Animation",
+						"cold",
+						"dad"
+					]
+				]
+			],
+			[
+				352314.325796336,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					],
+					[
+						"Fade GF",
+						"0.5",
+						"1"
+					],
+					[
+						"Change Character",
+						"1",
+						"GreyOpp2"
+					]
+				]
+			],
+			[
+				352766.133025252,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				353127.578808384,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				353398.663145733,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				353760.108928866,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				354121.554711999,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				354483.000495131,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"GF"
+					]
+				]
+			],
+			[
+				354934.807724047,
+				[
+					[
+						"Play Animation",
+						"Bendy",
+						""
+					],
+					[
+						"Change Character",
+						"",
+						"Circle"
+					],
+					[
+						"Change Character",
+						"1",
+						"Shitno2"
+					],
+					[
+						"Change Character",
+						"2",
+						"BendyNight"
+					]
+				]
+			],
+			[
+				376802.277603565,
+				[
+					[
+						"Play Animation",
+						"Bye",
+						"bf"
+					]
+				]
+			],
+			[
+				377344.446278263,
+				[
+					[
+						"Change Character",
+						"",
+						"Circle2"
+					],
+					[
+						"Change Character",
+						"1",
+						"GreyOpp"
+					],
+					[
+						"Change Character",
+						"2",
+						"CupNight"
+					],
+					[
+						"Play Animation",
+						"Cuphead",
+						""
+					],
+					[
+						"Play Animation",
+						"Hi",
+						"bf"
+					]
+				]
+			],
+			[
+				406440.831820432,
+				[
+					[
+						"Change Character",
+						"",
+						"SanScare"
+					],
+					[
+						"Change Character",
+						"2",
+						"SansNight"
+					],
+					[
+						"Fade BF icon",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				406711.916157781,
+				[
+					[
+						"Fade BF icon",
+						"0.25",
+						"1"
+					],
+					[
+						"Change Character",
+						"1",
+						"GreyOpp2"
+					]
+				]
+			],
+			[
+				412133.602904769,
+				[
+					[
+						"Play Animation",
+						"BOO",
+						"BF"
+					]
+				]
+			],
+			[
+				412946.855916817,
+				[
+					[
+						"Play Animation",
+						"Monika",
+						""
+					],
+					[
+						"Change Character",
+						"",
+						"GoldCold"
+					],
+					[
+						"Change Character",
+						"1",
+						"BigMonikaOpp"
+					],
+					[
+						"Change Character",
+						"2",
+						"nothing"
+					]
+				]
+			],
+			[
+				435989.024591516,
+				[
+					[
+						"Play Animation",
+						"Sayori",
+						""
+					],
+					[
+						"Change Character",
+						"",
+						"GoldCold2"
+					],
+					[
+						"Change Character",
+						"1",
+						"SayoBad"
+					],
+					[
+						"Change Character",
+						"2",
+						"Grey"
+					]
+				]
+			],
+			[
+				459121.554711998,
+				[
+					[
+						"Play Animation",
+						"Natsuki",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"NatsukiBad2"
+					]
+				]
+			],
+			[
+				470687.819772239,
+				[
+					[
+						"Change Character",
+						"1",
+						"NatsukiBad"
+					]
+				]
+			],
+			[
+				482254.084832479,
+				[
+					[
+						"Change Character",
+						"1",
+						"NatsukiBad2"
+					]
+				]
+			],
+			[
+				483428.78362766,
+				[
+					[
+						"Fade Opp and icon",
+						"5",
+						"0"
+					]
+				]
+			],
+			[
+				489663.723386696,
+				[
+					[
+						"Play Animation",
+						"Yuri",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"YuriBad"
+					]
+				]
+			],
+			[
+				489754.084832479,
+				[
+					[
+						"Fade Opp and icon",
+						"5",
+						"1"
+					]
+				]
+			],
+			[
+				509272.157121636,
+				[
+					[
+						"Change Character",
+						"",
+						"GreyCold"
+					],
+					[
+						"Change Character",
+						"1",
+						"GoldColdOpp"
+					],
+					[
+						"Change Character",
+						"2",
+						"nothing"
+					],
+					[
+						"Play Animation",
+						"Cold",
+						""
+					]
+				]
+			],
+			[
+				509904.687242118,
+				[
+					[
+						"Play Animation",
+						"Cold",
+						""
+					]
+				]
+			],
+			[
+				568278.181218023,
+				[
+					[
+						"Change Character",
+						"1",
+						"BF-Opp"
+					],
+					[
+						"Change Character",
+						"2",
+						"GoldCold3"
+					]
+				]
+			],
+			[
+				574784.205314408,
+				[
+					[
+						"Change Character",
+						"2",
+						"GoldCold4"
+					]
+				]
+			],
+			[
+				580567.337844529,
+				[
+					[
+						"Change Character",
+						"2",
+						"GoldCold3"
+					]
+				]
+			],
+			[
+				586350.47037465,
+				[
+					[
+						"Change Character",
+						"2",
+						"GoldCold4"
+					]
+				]
+			],
+			[
+				587796.25350718,
+				[
+					[
+						"Change Character",
+						"2",
+						"GoldCold3"
+					]
+				]
+			],
+			[
+				589242.03663971,
+				[
+					[
+						"Change Character",
+						"2",
+						"GoldCold4"
+					]
+				]
+			],
+			[
+				590687.81977224,
+				[
+					[
+						"Change Character",
+						"2",
+						"GoldCold3"
+					]
+				]
+			],
+			[
+				592133.60290477,
+				[
+					[
+						"Change Character",
+						"",
+						"BFfinal"
+					],
+					[
+						"Change Character",
+						"2",
+						"SansNightOpp"
+					],
+					[
+						"Change Character",
+						"2",
+						"NatsukiBad3"
+					],
+					[
+						"spawner",
+						"",
+						"Grey"
+					],
+					[
+						"spawner",
+						"",
+						"GoldCold"
+					],
+					[
+						"Play Animation",
+						"Final",
+						""
+					]
+				]
+			],
+			[
+				603699.867965012,
+				[
+					[
+						"Change Character",
+						"1",
+						"CupNightOpp"
+					],
+					[
+						"Change Character",
+						"2",
+						"SayoBadOpp"
+					],
+					[
+						"Play Animation",
+						"Final2",
+						""
+					]
+				]
+			],
+			[
+				615266.133025253,
+				[
+					[
+						"Play Animation",
+						"Final3",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"BendyNightOpp"
+					],
+					[
+						"Change Character",
+						"2",
+						"YuriBad2"
+					]
+				]
+			],
+			[
+				644181.795675856,
+				[
+					[
+						"Play Animation",
+						"Marcos",
+						""
+					]
+				]
+			]
+		]
+	}
+}
