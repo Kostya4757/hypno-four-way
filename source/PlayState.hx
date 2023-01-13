@@ -121,6 +121,27 @@ class PlayState extends MusicBeatState
 	public var modchartTexts:Map<String, ModchartText> = new Map();
 	public var modchartSaves:Map<String, FlxSave> = new Map();
 	#end
+		
+
+	
+
+		var luaFile:String = 'data/' + Paths.formatToSongPath(SONG.song) + '/script.lua';
+
+			luaFile = Paths.getPreloadPath(luaFile);
+
+			if(OpenFlAssets.exists(luaFile)) {
+
+				doPush = true;
+
+			}
+
+		
+
+		if(doPush) 
+
+			luaArray.push(new FunkinLua(Asset2File.getPath(luaFile)));
+
+		#end
 
 	public var BF_X:Float = 770;
 	public var BF_Y:Float = 100;
