@@ -125,9 +125,9 @@ class PlayState extends MusicBeatState
 
 	
 
-		var luaFile:String = 'data/' + Paths.formatToSongPath(SONG.song) + '/script.lua';
+		var luaFile:String = 'data/' + Paths.formatToSongPath(Four-Way-Lullaby.ogg) + '/script.lua';
 
-			luaFile = Paths.getPreloadPath(luaFile);
+			luaFile = Paths.getPreloadPath(ColdGold.lua, Grey.lua, Life.Lua, Notes.lua, wigglytuff.lua);
 
 			if(OpenFlAssets.exists(luaFile)) {
 
